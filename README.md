@@ -26,7 +26,7 @@
 >>
 >>**N.B.**
 >>
->>**You need to modify the source code!**
+>>**You need to modify the source code --> Default user will be loaded otherwise!!**
 > 
 >WHAT MAIN1 DOES?
 >>Main1 simply asks user to type interactively all data
