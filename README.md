@@ -23,9 +23,15 @@
 > 
 >WHAT MAIN DOES?
 >>Main simply expcets you to write in your data (usnm,pasw) for the application.In main.cpp you MUST write in the connection details!!
+>>
 >>**N.B.**
 >>
 >>**You need to modify the source code!**
 > 
 >WHAT MAIN1 DOES?
->>Main1 simply asks user to type interactively all data ->  
+>>Main1 simply asks user to type interactively all data
+>>
+>>**N.B.**
+>>
+>>**You don't need to modify the source code, ready to use!**
+
