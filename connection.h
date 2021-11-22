@@ -18,6 +18,8 @@ public:
 
     ~Connection(){}
     
+    //get functions
+    
     const char *getServer()
     {
         return this->server;
@@ -33,6 +35,28 @@ public:
     const char *getDatabase()
     {
         return this->database;
+    }
+    
+    //set functions
+    
+    void setServer(char* s)
+    {
+    	this->server = s;
+    }
+    
+    void setUser(char *s)
+    {
+    	this->user = user;
+    }
+    
+    void setPassword(char *p)
+    {
+    	this->password = p;
+    }
+    
+    void setDatabase(char* d)
+    {
+    	this->database = d;
     }
 };
 
