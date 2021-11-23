@@ -8,7 +8,9 @@ mysql_install:
 install:
 	sudo apt-get install libmysqlclient-dev
 clean:
-	rm main		
+	rm main	
+clean1:
+	rm main1		
 run:
 	./main
 run1:
