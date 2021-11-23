@@ -19,6 +19,8 @@
 >>
 >>make run1 -> runs the program main1
 >>
+>>make mysql_install -> installs mysql client
+>>
 >>make install -> install all the needed libraries
 > 
 >WHAT MAIN DOES?
